@@ -1,2 +1,2 @@
 # Calculator-using-HTML-CSS-JS
-designing a calculator for basic calculator
+designing a calculator for basic calculations
